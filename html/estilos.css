@@ -1,0 +1,14 @@
+body { /* Se aplica directamente al elemento <body> */
+       color: rgb(0, 0, 0);
+       background-color: rgb(203, 111, 49);
+       background: url("https://e360.yale.edu/assets/site/P5253143_nepal_web.jpg")
+     }
+     h1 { /* Se aplica directamente a todos los elementos de tipo <h2> */
+       color: rgb(0, 0, 0);
+       background-color: rgb(59, 93, 68);
+     }
+     /* Se aplica sólo en el elemento donde se use con el atributo `class` */
+     .clase-css-tag {
+       color: rgb(223, 125, 44);
+     }
+   
